@@ -33,6 +33,7 @@ A simple web-based complaint management platform for smart cities, built using P
 Now you can access the login page, register users, lodge complaints, and manage them via admin panel.
 
 **SCREENSHOTS:**
+
 ![Screenshot 2025-05-12 203026](https://github.com/user-attachments/assets/417cdf91-4b46-4731-bd96-1cf0fd9e6a37)
 ![Screenshot 2025-05-12 203058](https://github.com/user-attachments/assets/80cea2af-1d8b-4a74-8ab0-6497b4b2b2c6)
 ![Screenshot 2025-05-12 203119](https://github.com/user-attachments/assets/25eb33e7-d994-4256-a648-50095a983440)
