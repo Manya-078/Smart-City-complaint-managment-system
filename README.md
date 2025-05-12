@@ -23,7 +23,6 @@ A simple web-based complaint management platform for smart cities, built using P
     users
     admin
     complaints
-    
     Import the table structure and sample data if provided (or manually create columns as per your PHP code)
 
 **5. Run the Project**
@@ -45,6 +44,7 @@ Now you can access the login page, register users, lodge complaints, and manage 
 
 
 **🖥️ Tech Used:**
+
 Frontend: HTML, CSS 
 
 Backend: PHP
