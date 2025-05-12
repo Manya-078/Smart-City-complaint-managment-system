@@ -15,7 +15,7 @@ A simple web-based complaint management platform for smart cities, built using P
 
 **3. Setup the Database**
 
-   Open your browser and go to http : //localhost/phpmyadmin 
+   Open your browser and go to http :    //localhost/phpmyadmin 
    
    Create a new database (example: smart_city)
 
@@ -27,7 +27,6 @@ A simple web-based complaint management platform for smart cities, built using P
 
 **5. Run the Project**
      Copy this project folder into C:/xampp/htdocs/
-     
      Open your browser and type:
      http://localhost/your-project-folder-name/
 
