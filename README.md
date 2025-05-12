@@ -9,13 +9,13 @@ A simple web-based complaint management platform for smart cities, built using P
    https://github.com/Manya-078/Smart-City-complaint-managment-system.git
    
 **2.  Download and Install XAMPP**
-    Install XAMPP
     
    Open XAMPP and start Apache and MySQL
 
 **3. Setup the Database**
 
-   Open your browser and go to http :    //localhost/phpmyadmin 
+   Open your browser and go to: 
+ http//localhost/phpmyadmin 
    
    Create a new database (example: smart_city)
 
