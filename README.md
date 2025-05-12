@@ -1,13 +1,14 @@
 **📌 Smart City Complaint Management System**
+
 A simple web-based complaint management platform for smart cities, built using PHP, MySQL, HTML, and CSS. This project mainly demonstrates DBMS concepts applied in a real-time scenario.
 
 **📥 How to Run This Project Locally:**
 
 **1. Clone this Repository**
+
    https://github.com/Manya-078/Smart-City-complaint-managment-system.git
    
 **2.  Download and Install XAMPP**
-   
     Install XAMPP
     
    Open XAMPP and start Apache and MySQL
@@ -19,11 +20,8 @@ A simple web-based complaint management platform for smart cities, built using P
    Create a new database (example: smart_city)
 
 **4. Inside this database, create the following tables:**
-
     users
-    
     admin
-    
     complaints
     
     Import the table structure and sample data if provided (or manually create columns as per your PHP code)
