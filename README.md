@@ -12,13 +12,14 @@ A simple web-based complaint management platform for smart cities, built using P
     
    Open XAMPP and start Apache and MySQL
 
-****3. **Setup the Database****
+**3. Setup the Database**
 
    Open your browser and go to http : //localhost/phpmyadmin 
    
    Create a new database (example: smart_city)
 
-**4. **Inside this database, create the following tables:****
+**4. Inside this database, create the following tables:**
+
     users
     
     admin
@@ -31,8 +32,7 @@ A simple web-based complaint management platform for smart cities, built using P
      Copy this project folder into C:/xampp/htdocs/
      
      Open your browser and type:
-     
-http://localhost/your-project-folder-name/
+     http://localhost/your-project-folder-name/
 
 Now you can access the login page, register users, lodge complaints, and manage them via admin panel.
 
@@ -47,8 +47,11 @@ Now you can access the login page, register users, lodge complaints, and manage 
 
 
 **🖥️ Tech Used:**
-Frontend: HTML, CSS (baby pink theme)
+Frontend: HTML, CSS 
+
 Backend: PHP
+
 Database: MySQL (via phpMyAdmin)
+
 
 **This project is designed as a DBMS mini-project for educational/demo purposes**
