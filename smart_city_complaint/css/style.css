@@ -1,0 +1,42 @@
+.dashboard-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2,
+h3 {
+    color: #333;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+th,
+td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #5b86e5;
+    color: white;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+a {
+    color: #5b86e5;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
